@@ -2,7 +2,7 @@
   "name": "todos-react-qerry",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://chillhaze.github.io/имя_репозитория",
+  "homepage": "https://chillhaze.github.io/todos-react-qerry",
   "dependencies": {
     "@emotion/react": "^11.5.0",
     "@emotion/styled": "^11.3.0",
