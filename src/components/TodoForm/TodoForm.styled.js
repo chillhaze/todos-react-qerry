@@ -3,7 +3,7 @@ import styled from '@emotion/styled';
 export const Form = styled.form`
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   width: 600px;
   padding: 16px;
   margin: 0 auto;
@@ -18,6 +18,7 @@ export const Input = styled.textarea`
 `;
 
 export const Button = styled.button`
+  width: 100%;
   padding: 8px 12px;
   margin: 0;
   border: none;

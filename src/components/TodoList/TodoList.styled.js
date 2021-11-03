@@ -6,6 +6,7 @@ export const List = styled.li`
   padding: 0 16px;
   margin-top: 16px;
   display: grid;
+  justify-content: center;
   grid-template-columns: repeat(auto-fit, minmax(300px, max-content));
   gap: 24px;
 `;
