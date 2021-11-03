@@ -1,0 +1,17 @@
+import styled from '@emotion/styled';
+
+export const ItemWrapper = styled.div`
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 4px 12px;
+  box-shadow: rgb(0 0 0 / 20%) 0px 2px 1px -1px,
+    rgb(0 0 0 / 14%) 0px 1px 1px 0px, rgb(0 0 0 / 12%) 0px 1px 3px 0px;
+`;
+
+export const Content = styled.p`
+  margin: 0;
+  line-height: 1.5;
+`;
