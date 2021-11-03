@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/css/main.f8f2f3e6.chunk.css",
-    "main.js": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/main.3914f887.chunk.js",
-    "main.js.map": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/main.3914f887.chunk.js.map",
-    "runtime-main.js": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/runtime-main.920ebdcb.js",
-    "runtime-main.js.map": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/runtime-main.920ebdcb.js.map",
-    "static/js/2.7f00fd26.chunk.js": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/2.7f00fd26.chunk.js",
-    "static/js/2.7f00fd26.chunk.js.map": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/2.7f00fd26.chunk.js.map",
-    "static/js/3.fa63bfa6.chunk.js": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/3.fa63bfa6.chunk.js",
-    "static/js/3.fa63bfa6.chunk.js.map": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/3.fa63bfa6.chunk.js.map",
-    "index.html": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/index.html",
-    "static/css/main.f8f2f3e6.chunk.css.map": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/css/main.f8f2f3e6.chunk.css.map",
-    "static/js/2.7f00fd26.chunk.js.LICENSE.txt": "/%D0%B8%D0%BC%D1%8F_%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D1%8F/static/js/2.7f00fd26.chunk.js.LICENSE.txt"
+    "main.css": "/todos-react-qerry/static/css/main.f8f2f3e6.chunk.css",
+    "main.js": "/todos-react-qerry/static/js/main.3914f887.chunk.js",
+    "main.js.map": "/todos-react-qerry/static/js/main.3914f887.chunk.js.map",
+    "runtime-main.js": "/todos-react-qerry/static/js/runtime-main.b61c7879.js",
+    "runtime-main.js.map": "/todos-react-qerry/static/js/runtime-main.b61c7879.js.map",
+    "static/js/2.7f00fd26.chunk.js": "/todos-react-qerry/static/js/2.7f00fd26.chunk.js",
+    "static/js/2.7f00fd26.chunk.js.map": "/todos-react-qerry/static/js/2.7f00fd26.chunk.js.map",
+    "static/js/3.fa63bfa6.chunk.js": "/todos-react-qerry/static/js/3.fa63bfa6.chunk.js",
+    "static/js/3.fa63bfa6.chunk.js.map": "/todos-react-qerry/static/js/3.fa63bfa6.chunk.js.map",
+    "index.html": "/todos-react-qerry/index.html",
+    "static/css/main.f8f2f3e6.chunk.css.map": "/todos-react-qerry/static/css/main.f8f2f3e6.chunk.css.map",
+    "static/js/2.7f00fd26.chunk.js.LICENSE.txt": "/todos-react-qerry/static/js/2.7f00fd26.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.920ebdcb.js",
+    "static/js/runtime-main.b61c7879.js",
     "static/js/2.7f00fd26.chunk.js",
     "static/css/main.f8f2f3e6.chunk.css",
     "static/js/main.3914f887.chunk.js"
