@@ -5,7 +5,7 @@ import { TodoList } from './TodoList/TodoList';
 import { Spinner } from './Spinner/Spinner';
 import { useFetchTodos } from 'hooks/useFetchTodos';
 
-axios.defaults.baseURL = 'https://6182c42302f60a001775ceca.mockapi.io/todos/';
+axios.defaults.baseURL = 'https://6182c42302f60a001775ceca.mockapi.io/mockapi/';
 
 export const App = () => {
   const { todos, isLoading } = useFetchTodos();
