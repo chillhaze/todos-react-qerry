@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/todos-react-qerry/static/css/main.f8f2f3e6.chunk.css",
-    "main.js": "/todos-react-qerry/static/js/main.3914f887.chunk.js",
-    "main.js.map": "/todos-react-qerry/static/js/main.3914f887.chunk.js.map",
+    "main.js": "/todos-react-qerry/static/js/main.2f88e39b.chunk.js",
+    "main.js.map": "/todos-react-qerry/static/js/main.2f88e39b.chunk.js.map",
     "runtime-main.js": "/todos-react-qerry/static/js/runtime-main.b61c7879.js",
     "runtime-main.js.map": "/todos-react-qerry/static/js/runtime-main.b61c7879.js.map",
     "static/js/2.7f00fd26.chunk.js": "/todos-react-qerry/static/js/2.7f00fd26.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b61c7879.js",
     "static/js/2.7f00fd26.chunk.js",
     "static/css/main.f8f2f3e6.chunk.css",
-    "static/js/main.3914f887.chunk.js"
+    "static/js/main.2f88e39b.chunk.js"
   ]
 }
